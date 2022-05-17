@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **GCP & Data Streaming.**
 
-- 👨‍💻 All of my projects are available at [endler.tech](endler.tech)
+- 👨‍💻 All of my projects are available at [endler.tech](https://endler.tech)
 
-- 📝 I regularly write articles on [blog.endler.tech](blog.endler.tech)
+- 📝 I regularly write articles on [blog.endler.tech](https://blog.endler.tech)
 
 - 📫 How to reach me **jakob@endler.tech**
 
