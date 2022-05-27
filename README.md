@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [endler.tech](https://endler.tech)
 
-- 📝 I regularly write articles on [blog.endler.tech](https://blog.endler.tech)
+- 📝 I sometimes write stuff on [notes.endler.tech](https://notes.endler.tech)
 
 - 📫 How to reach me **jakob@endler.tech**
 
