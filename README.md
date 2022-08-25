@@ -9,7 +9,7 @@
 
 - 📝 I sometimes write stuff on [notes.endler.tech](https://notes.endler.tech)
 
-- 📫 How to reach me **jakob@endler.tech**
+- 📫 Reach me @ **jakob@endler.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
