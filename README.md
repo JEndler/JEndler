@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jendler&label=Profile%20views&color=0e75b6&style=flat" alt="jendler" /> </p>
 
-- 🌱 I’m currently learning **GCP & Data Streaming.**
+- 🌱 I’m currently working on both [Datapods](https://datapods.app) and  [Robowriter](https://robowriter.de)
 
 - 👨‍💻 All of my projects are available at [endler.tech](https://endler.tech)
 
