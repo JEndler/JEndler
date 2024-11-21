@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jendler&label=Profile%20views&color=0e75b6&style=flat" alt="jendler" /> </p>
 
-- 🌱 I’m currently working on both [Datapods](https://datapods.app) and  [Robowriter](https://robowriter.de)
+- 🌱 I’m currently building [Datapods](https://datapods.app).
 
 - 👨‍💻 All of my projects are available at [endler.tech](https://endler.tech)
 
