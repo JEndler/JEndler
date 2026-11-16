@@ -1,5 +1,5 @@
 Hello there
 
-🌱 I’m currently building [Datapods](https://datapods.app).
+🌱 I’m currently building [General Evidence](https://generalevidence.com).
 
-📫 Reach me @ **jakob@endler.tech**
+📫 Reach me @ **jakob@generalevidence.com**
